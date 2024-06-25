@@ -1,4 +1,9 @@
-
 export default function Home() {
-  return <main>Todo App</main>;
+  return (
+    <main>
+      <div>
+        <h1>Hello World!</h1>
+      </div>
+    </main>
+  );
 }
