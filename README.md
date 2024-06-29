@@ -1,1 +1,1 @@
-Blog App (I am developing this project)
+Todo App (I am developing this project)
